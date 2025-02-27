@@ -1,0 +1,18 @@
+# .gitignore for Python virtual environments
+# Ensure that local environment folders are excluded from version control
+
+# Common directory names for Python virtual environments
+env/
+venv/
+.venv/
+
+# If your environment uses a .env file for environment variables
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Cache directories
+*.egg-info
+*.egg

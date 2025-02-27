@@ -1,4 +1,9 @@
+# MCQ FastAPI Project
 
+This is a simple FastAPI application to serve multiple-choice questions (MCQs). It includes:
+- **HTTP Basic Auth** for user authentication
+- Basic admin functionality to create new questions
+- Example endpoints for health checks and retrieving randomized MCQs
 
 ## Project Structure
 

@@ -1,27 +1,4 @@
-Below is a **sample** `README.md` you can copy and paste into your project. Feel free to modify as needed.
 
-```md
-# MCQ FastAPI Project
-
-This is a simple FastAPI application to serve multiple-choice questions (MCQs). It includes:
-- **HTTP Basic Auth** for user authentication
-- Basic admin functionality to create new questions
-- Example endpoints for health checks and retrieving randomized MCQs
-
----
-
-## Requirements
-
-- The packages listed in [requirements.txt](./requirements.txt).
-
-Example `requirements.txt`:
-```txt
-fastapi==0.95.2
-uvicorn==0.22.0
-pydantic==1.10.7
-```
-
----
 
 ## Project Structure
 
